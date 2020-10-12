@@ -1,0 +1,7 @@
+{
+  "name": "prjWebService",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
